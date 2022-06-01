@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.flex-colo{
+    @apply flex justify-center items-center flex-col
+}
+a{
+    color: blue;
+    text-decoration: underline;
+}
